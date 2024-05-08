@@ -7,7 +7,7 @@ I'm a passionate developer who thrives on learning new things and working togeth
 
 ### 🧩 Applications
 
-- Fine-Dine | [Code](https://github.com/derrenpamintuan/final-project) | [Code]([https://github.com/derrenpamintuan/ajax-project](http://final-project-dev22222.us-west-1.elasticbeanstalk.com/))
+- Fine-Dine | [Live](http://final-project-dev22222.us-west-1.elasticbeanstalk.com/) | [Code](https://github.com/derrenpamintuan/final-project) 
 - Holiday Travels | [Live](https://derrenpamintuan.github.io/ajax-project/) | [Code](https://github.com/derrenpamintuan/ajax-project)
 
 ### 👥 Lets Connect!
